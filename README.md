@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Karri Pushpa Reddy
+### Senior Angular Developer | Angular 8–24 | UI Specialist | AG Grid | 6+ Years Experience
 
-<!--
-**pushpareddykarri3111/pushpareddykarri3111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Angular Developer with 6+ years of experience building enterprise-grade web applications.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Angular 8–24 (Standalone Components, Signals)
+- TypeScript, JavaScript
+- Angular Material, Bootstrap
+- AG Grid (Advanced Tables)
+- RxJS
+- REST API Integration
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I Do
+- Admin Dashboards
+- UI Development
+- Bug Fixing & Performance Optimization
+- API Integration
+- Part-time Freelance Support
+
+##  Contact
+- Email: pushpareddykarri3111@gmail.com
+- Available for part-time freelance work
